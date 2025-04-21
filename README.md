@@ -48,7 +48,7 @@ const { *TODAS SU VARIANTES* } = require("struc-pz");
 ```
 
 # `🗂` Configuracion y ejemplos
-<p align="center">Como vamos a crear cad una de las variantes del npm</p>
+<p align="center">Como vamos a crear cada una de las variantes del npm</p>
 
 ### pzEmbed
 
