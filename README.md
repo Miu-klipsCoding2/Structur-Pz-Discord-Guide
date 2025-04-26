@@ -21,7 +21,7 @@ npm i struc-pz
 
 ## `💻` Soporte de ayuda
 ### Soporte de la comunidad
-<a href="https://discord.gg/"><img src="https://discord.com/api/guilds/833309512412299276/widget.png" alt="Coding support server"/></a>
+<a href="https://discord.gg/rcHnr2xnQK"><img src="https://discord.com/api/guilds/833309512412299276/widget.png" alt="Coding support server"/></a>
 
 
 
